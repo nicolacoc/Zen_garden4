@@ -41,7 +41,7 @@ h3 {
     background-color: darkgrey;
 }
 
-div p:nth-child(2):first-letter {
+div.preamble p:nth-child(2):first-letter, div#zen-supporting div p:nth-child(2):first-letter {
     font-size: 40px;
     font-weight: bolder;
 }
@@ -56,6 +56,6 @@ h1#title, h2 {
     justify-content: center;
 }
 
-section.intro header h2 abbr, div.summary p abbr{
+section.intro header h2 abbr, div.summary p abbr, abbr {
     text-decoration: none;
 }
