@@ -1,0 +1,23 @@
+.intro .banner h1 {
+    font-size: 30px;
+    color: darkorange;
+    text-align: center;
+}
+
+.intro .banner h2 {
+    font-size: 20px;
+    text-align: center;
+}
+
+abbr {
+    text-decoration: none;
+}
+
+header{
+    box-sizing: border-box;
+    position: relative;
+    top: 10px;
+    left: auto;
+    right: auto;
+
+}

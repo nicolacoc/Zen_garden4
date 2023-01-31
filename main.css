@@ -16,19 +16,8 @@ div.page-wrapper {
     box-sizing: content-box;
     width: 65%;
     padding: 10px;
+    margin: 13px;
     font-family: 'Dancing Script', cursive;
-
-}
-
-.intro .banner h1 {
-    font-size: 30px;
-    color: darkorange;
-    text-align: center;
-}
-
-.intro .banner h2 {
-    font-size: 20px;
-    text-align: center;
 
 }
 
@@ -56,6 +45,3 @@ h1#title, h2 {
     justify-content: center;
 }
 
-section.intro header h2 abbr, div.summary p abbr, abbr {
-    text-decoration: none;
-}
