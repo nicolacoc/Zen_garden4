@@ -15,9 +15,9 @@ abbr {
 
 header{
     box-sizing: border-box;
-    position: relative;
+    position: absolute;
     top: 10px;
-    left: auto;
-    right: auto;
+    left: calc(100% - 90%);
+    right: calc(100% - 90%);
 
 }
